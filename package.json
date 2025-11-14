@@ -1,6 +1,6 @@
 package.json
 {
-"name": "youth-career-studio-final",
+"name": "youth-career-studio-final-v3",
 "private": true,
 "scripts": {
 "dev": "next dev -p 3070",
