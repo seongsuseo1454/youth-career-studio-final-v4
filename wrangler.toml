@@ -7,5 +7,4 @@ pages_build_output_dir = ".next" # 또는 빌드 결과물이 저장되는 최�
 # 또는
 # pages_build_output_dir = "out" # Next.js의 static export를 사용하는 경우
 
-account_id = "네 Cloudflare 계정 ID" # 정확하게 설정
 compatibility_date = "2025-11-16" # 최신 날짜로 설정
